@@ -1,2 +1,4 @@
-# GoogleTimeSeries
-An introduction into time series using Google Stock
+# GoogleTimeSeries 🧑🏻‍💻
+An introduction to time series using Google Stock
+
+
