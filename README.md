@@ -1,5 +1,5 @@
 # Google Stock TimeSeries 🧑🏻‍💻
-An introduction to time series using Google Stock
+An introduction to time series using Google Stock and developing a Google Stock forecast 
 ## The csv
 The following CSV can be found in Kaggle 
 here is the link: https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
